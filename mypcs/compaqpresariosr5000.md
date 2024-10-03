@@ -16,5 +16,5 @@ This is what the computer looks like:
 
 ![Compaq Presario SR5000](https://raw.githubusercontent.com/Lolzoes/Lolzoes/refs/heads/main/assets/Compaq%20Presario%20SR5000.jpg)
 
-## FAQ about this computer
+## FAQ
 - **What version of Windows did this computer originally come with?** This computer came with Windows Vista however it could be downgraded to XP.
