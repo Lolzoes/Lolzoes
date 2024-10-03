@@ -8,6 +8,15 @@ I have the following computers:
 
 [Compaq Presario SR5000](https://lolzoes.com/mypcs/compaqpresariosr5000)
 
+[HP EliteBook 840 G8](https://lolzoes.com/mypcs/hpelitebook840g8)
+
+## My recording equipment
+My current recording equipment is:
+
+- iPhone 11
+
+I'm planning on getting a new camera and a tripod soon.
+
 ## Social Media
 You can find the links to my social media profiles below:
 
