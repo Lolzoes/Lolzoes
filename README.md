@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey there 👋!
+My name is Noah and I make YouTube videos on the Internet.
+## Hobbies
+These are my hobbies!
+- Working on computers.
+- My [YouTube](https://youtube.com/@Lolzoes) channel.
+- Making software.
+## Socials
+You can find my social media profiles here:
 
-<!--
-**Lolzoes/Lolzoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+YouTube - https://youtube.com/@Lolzoes
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub - https://github.com/Lolzoes
