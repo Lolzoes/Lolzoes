@@ -7,8 +7,8 @@ This computer is from the year 2007 and I use it for the following things:
 ## Specifications of this computer
 The specifications are:
 - 4GB of DDR2 RAM
-- 120 GB hard disk.
-- DVD drive
+- Hard Disk Drive
+- DVD drive (with HP LightScribe Technology)
 - Nvidea Graphics
 
 ## What does this computer look like?
