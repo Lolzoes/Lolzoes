@@ -24,6 +24,11 @@ You can find the links to my social media profiles below:
 - [GitHub](https://github.com/Lolzoes)
 - [Twitter](https://x.com/LolzoesYT)
 
+## Blog
+If you'd like to view my blog, you can see all of my posts here:
+
+[3rd October 2024](https://lolzoes.com/blog/1)
+
 ## Contact
 If you have any questions for me (this can be any question) you can send me an email by emailing noah@lolzoes.com! 
 
