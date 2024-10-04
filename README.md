@@ -11,3 +11,5 @@ You can find my social media profiles here:
 YouTube - https://youtube.com/@Lolzoes
 
 GitHub - https://github.com/Lolzoes
+
+Twitter - https://x.com/LolzoesYT
